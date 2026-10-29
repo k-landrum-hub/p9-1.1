@@ -24,6 +24,7 @@ int main(void) {
 }
 
 
+
 int countVowel(string str) {
 	int count = 0;
 
